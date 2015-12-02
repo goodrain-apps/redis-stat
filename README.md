@@ -1,9 +1,7 @@
 # redis-stat on [GoodRain](https://www.goodrain.com)
 
 
-[![deploy to goodrain](http://www.goodrain.com/images/deploy/button.png)](https://user.goodrain.com/)
-
-<a href="https://user.goodrain.com/" target="_blank"><img src="http://www.goodrain.com/images/deploy/button.png"></img></a>
+<a href="https://user.goodrain.com/" target="_blank"><img src="http://www.goodrain.com/images/deploy/button_120201.png"></img></a>
 
 [Demo](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
 
