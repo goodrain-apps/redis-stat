@@ -4,7 +4,7 @@
 [![deploy to goodrain](http://www.goodrain.com/images/deploy/button.png)](https://user.goodrain.com/)
 
 
-[Demo地址](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
+[Demo](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
 
 _redis-stat_ is a simple Redis monitoring tool written in Ruby.
 
