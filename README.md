@@ -1,7 +1,7 @@
 # redis-stat on [GoodRain](https://www.goodrain.com)
 
 
-[![deploy to goodrain](http://www.goodrain.com/images/deploy/button_a.png)](https://user.goodrain.com/)
+[![deploy to goodrain](http://www.goodrain.com/images/deploy/button.png)](https://user.goodrain.com/)
 
 
 [Demo地址](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
