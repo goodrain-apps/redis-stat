@@ -3,7 +3,7 @@
 
 [![deploy to goodrain](http://www.goodrain.com/images/deploy/button.png)](https://user.goodrain.com/)
 
-<img src="http://www.goodrain.com/images/deploy/button.png"><a href="http://example.com/" target="_blank">Hello, world!</a></img>
+<a href="https://user.goodrain.com/" target="_blank"><img src="http://www.goodrain.com/images/deploy/button.png"></img></a>
 
 [Demo](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
 
