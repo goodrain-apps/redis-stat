@@ -1,5 +1,7 @@
 # redis-stat
 
+[Demo地址](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
+
 _redis-stat_ is a simple Redis monitoring tool written in Ruby.
 
 It is based on [INFO](http://redis.io/commands/info) command of Redis,
