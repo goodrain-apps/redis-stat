@@ -5,11 +5,10 @@
 
 [Demo](http://redis-stat.goodrain.ucloud-bj-1.goodrain.net:10080/)
 
-_redis-stat_ is a simple Redis monitoring tool written in Ruby.
+_redis-stat_ 是一款利用Ruby开发的简单Redis监控工具。
 
-It is based on [INFO](http://redis.io/commands/info) command of Redis,
-and thus generally won't affect the performance of the Redis instance
-unlike the other monitoring tools based on [MONITOR](http://redis.io/commands/monitor) command.
+
+相对于其他使用[MONITOR](http://redis.io/commands/monitor) 命令的监控工具 _redis-stat_ 基于 Redis的 [INFO](http://redis.io/commands/info) 命令，因此对Redis实例不会有任何的性能影响。
 
 _redis-stat_ allows you to monitor Redis instances
 - either with vmstat-like output from the terminal
